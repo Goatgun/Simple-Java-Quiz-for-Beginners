@@ -8,3 +8,7 @@ Conditional checking
 Basic input/output operations
 
 Perfect for students or self-learners new to programming.
+Note : you can improve this by using a random or shuffle questions
+
+Screenshot : 
+![Screenshot](quiz.png)
